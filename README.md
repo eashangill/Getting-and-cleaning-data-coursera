@@ -11,7 +11,7 @@
 Goal | Item | Link to Item
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/eashangill/Getting-and-cleaning-data-coursera/run_analysis.R "run_analysis.R")
-Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/eashangill/Getting-and-cleaning-data-coursera/tidyData.txt "tidyData.txt")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/eashangill/Getting-and-cleaning-data-coursera/blob/master/tinyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/eashangill/Getting-and-cleaning-data-coursera "Click to go to Repo")
 Cookbook | CodeBook.md |  [Repo Link](https://github.com/eashangill/Getting-and-cleaning-data-coursera/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repo Link](https://github.com/eashangill/Getting-and-cleaning-data-coursera/blob/master/README.md "README.md")
